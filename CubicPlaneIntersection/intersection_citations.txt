@@ -1,0 +1,31 @@
+@article{10.2307/2309606,
+ ISSN = {00029890, 19300972},
+ URL = {http://www.jstor.org/stable/2309606},
+ author = {J. W. Lasley},
+ journal = {The American Mathematical Monthly},
+ number = {5},
+ pages = {362--364},
+ publisher = {Mathematical Association of America},
+ title = {On Degenerate Conics},
+ urldate = {2022-08-30},
+ volume = {64},
+ year = {1957}
+}
+
+@misc{isosurface,
+URL = {https://blogs.mathworks.com/graphics/2015/07/22/implicit-surface-intersections/},
+published = {Mike on MATLAB Graphics}
+author = {Garrity, Mike},
+title = {Implicit Surface Intersections},
+urldate = {2022-08-30},
+year = {2015},
+}
+
+@article{km_surf,
+URL = {https://www.oliverlabs.net/data/vis_real_cs.pdf}
+author = {Stephan Holzer and Oliver Labs},
+publisher = {Oliver Labs},
+title = {Illustrating the Classification of Real Cubic Surfaces},
+urldate = {2022-08-22},
+year = {2006},
+}
